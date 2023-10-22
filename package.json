@@ -1,0 +1,15 @@
+{
+  "name": "http_server_for_ngnix",
+  "version": "1.0.0",
+  "description": "Server HTTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Santiago Olayo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
